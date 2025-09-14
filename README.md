@@ -1,1 +1,1 @@
-Aluno: Rafael Frossard / Trabalho avaliativo em Java do 3° bimestre - Estrutura de Dados
+Aluno: Rafael Frossard / Trabalho avaliativo - Estrutura de Dados / Turma 3B
